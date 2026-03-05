@@ -1,0 +1,30 @@
+.send-container {
+  text-align: center;
+}
+
+.send-container h2 {
+  margin-bottom: 1rem;
+}
+
+.send-container p {
+  margin-bottom: 0.5rem;
+  color: #777;
+}
+
+.send-container h3 {
+  margin: 1rem 0;
+}
+
+.review-data {
+  text-align: left;
+}
+
+.review-data span {
+  font-weight: bold;
+  margin-right: 5px;
+  color: #333;
+}
+
+.review-data svg {
+  margin-left: 5px;
+}
